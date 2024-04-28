@@ -1,11 +1,11 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: url(./assets/img/hero-bg.jpg) center 1%;
+    background-image: linear-gradient(to bottom, #2e3f3c, #2d4c47, #2b5951, #26665c, #1e7467, #237f71, #278b7c, #2c9786, #40a492, #51b09f, #62bdac, #72cab9);
 
   }
   main {
     max-width: 600px;
-    margin: 30vh auto;  
+    margin: 35vh auto;  
     background-color: #1bac91;
     padding: 20px;
     border-radius: 8px;
